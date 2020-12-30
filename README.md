@@ -1,4 +1,8 @@
 # ruby_gui_application
 
+```
+gem install gtk3
+```
 
-guiアプリを作る
+# 動作環境
+ruby: 2.7.2
